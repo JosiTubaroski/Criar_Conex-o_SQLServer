@@ -6,5 +6,5 @@
 
 2) Adicionar Connection
 
-   
+    <img src="https://github.com/JosiTubaroski/Criar_Conex-o_SQLServer/blob/main/img/02_New_Conection.png">
    
